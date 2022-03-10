@@ -1967,7 +1967,8 @@ hr{
 .section-tittle span{
 	font-size:35px;
 	margin-bottom:22px;
-	font-family:"Great Vibes",cursive;
+	font-family: 'Open Sans', sans-serif;
+font-family: 'Permanent Marker', cursive;
 	color:#c6a16e;
 	display:block
 }
@@ -2298,7 +2299,7 @@ hr{
 }
 }
 .slider-height2{
-	min-height:350px;		
+	min-height:350px;
 	background-repeat:no-repeat;
 	background-position:center center;
 	background-size:cover;
@@ -2426,7 +2427,8 @@ hr{
 	font-size:35px;
 	margin-bottom:39px;
 	margin-bottom:25px;
-	font-family:"Great Vibes",cursive;
+	font-family: 'Open Sans', sans-serif;
+font-family: 'Permanent Marker', cursive;
 	display:block;
 	padding-left:106px;
 	color:#FD4323;
@@ -2859,7 +2861,8 @@ hr{
 .visit-tailor-area .tailor-details span{
 	font-size:35px;
 	margin-bottom:22px;
-	font-family:"Great Vibes",cursive;
+	font-family: 'Open Sans', sans-serif;
+font-family: 'Permanent Marker', cursive;
 	color:#c6a16e;
 	display:block
 }
